@@ -1,4 +1,5 @@
 # Delete-Unwanted-Word-using-Naive-formula
+image:https://img.shields.io/badge/License-MIT-brightgreen.svg["LICENSE", link="https://github.com/Jahidul007/Delete-Unwanted-Word-using-Naive-formula/blob/master/LICENSE"] </br>
 **Prerequisite : Printerwriter, BufferedReader**</br>
 
 Given two files input.txt and delete.txt. Our Task is to perform file extraction(Input-Delete) and save the output in file say output.txt</br>
