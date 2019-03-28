@@ -3,7 +3,7 @@
 
 Given two files input.txt and delete.txt. Our Task is to perform file extraction(Input-Delete) and save the output in file say output.txt</br>
 **Example**</br>
-![example](https://user-images.githubusercontent.com/26745548/55197707-83100c00-51dd-11e9-93bc-8bd6d6a96fdc.png)
+![example](https://user-images.githubusercontent.com/26745548/55197707-83100c00-51dd-11e9-93bc-8bd6d6a96fdc.png)</br>
 **Naive Algorithm**</br>
 ```java
 1. Create PrintWriter object for output.txt
