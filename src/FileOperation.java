@@ -10,7 +10,7 @@ public class FileOperation {
 
         try {
             // file input
-            File file = new File("input.txt");
+            File file = new File("book.txt");
             String charset = "UTF-8";
             String[] delete = {"boost ", "PREPAID ", "AT&T "};
 
